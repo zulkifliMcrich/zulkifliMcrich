@@ -1,12 +1,14 @@
-<h1 align="center">Hi there, I'm Zulkifli Macadato</h1>
-
+<h1 align="center">
+  Hi there, I'm Zulkifli Macadato
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
+</h1>
 <p align="center">
-  <em>A dedicated student with a passion for technology, systems, and continuous learning.</em>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=BSIS+Student+%40+MSU-Main;Passionate+about+Database+%26+Systems;Student+Leader+%26+Tech+Enthusiast;Always+learning%2C+always+growing." alt="Typing SVG" />
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zulkiflimacadato&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
+
 
 ---
 
@@ -35,18 +37,6 @@
 ## Projects
 
 *Browse my repositories below for more details.*
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zulkifliMcrich&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zulkifliMcrich&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
