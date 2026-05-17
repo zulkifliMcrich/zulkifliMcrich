@@ -5,9 +5,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=BSIS+Student+%40+MSU-Main;Passionate+about+Database+%26+Systems;Student+Leader+%26+Tech+Enthusiast;Always+learning%2C+always+growing." alt="Typing SVG" />
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zulkiflimacadato&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+
 
 
 ---
