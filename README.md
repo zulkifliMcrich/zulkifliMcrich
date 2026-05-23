@@ -67,7 +67,7 @@ Applied three supervised machine learning models to 6,636 school-level NAT recor
 - Mathematics identified as the strongest predictor (r = 0.814)
 - Region IX flagged as the lowest-performing region (mean MPS: 53.79%)
 
-# Mohammad-Zulkifli-Macadato
+# LinkedIn
 [Click here for my LinkedIn](https://www.linkedin.com/in/mohammad-zulkifli-macadato-7293292b2/)
 
 ---
